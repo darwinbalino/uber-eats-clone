@@ -9,6 +9,7 @@ export default function Home() {
       <View style={{ backgroundColor: "white", padding: 15 }}>
         <HeaderTabs />
         <SearchBar />
+        <Text>hi</Text>
       </View>
     </SafeAreaView>
   );
